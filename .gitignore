@@ -1,0 +1,12 @@
+# dependências
+node_modules/
+
+# build
+build/
+
+# cache
+.cache/
+*.log
+
+# system
+.DS_Store

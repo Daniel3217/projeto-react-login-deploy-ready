@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/Daniel3217/projeto-react-login-deploy-ready.git/static/js/main.db8435cb.js",
+    "static/media/foto-debora.jpeg": "/Daniel3217/projeto-react-login-deploy-ready.git/static/media/foto-debora.79d6f21bbc3f10542a63.jpeg",
+    "static/media/fotoDaniel.jpeg": "/Daniel3217/projeto-react-login-deploy-ready.git/static/media/fotoDaniel.2df06df57934b9be35a6.jpeg",
+    "index.html": "/Daniel3217/projeto-react-login-deploy-ready.git/index.html",
+    "main.db8435cb.js.map": "/Daniel3217/projeto-react-login-deploy-ready.git/static/js/main.db8435cb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db8435cb.js"
+  ]
+}
