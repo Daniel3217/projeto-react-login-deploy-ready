@@ -26,8 +26,8 @@ O objetivo do projeto é demonstrar conceitos de autenticação, manipulação d
 ---
 
 ## 👥 Integrantes da dupla
-- Nome do aluno 1: [INSERIR NOME]
-- Nome do aluno 2: [INSERIR NOME]
+- Nome do aluno 1: DANIEL MOREIRA DE SOUZA
+- Nome do aluno 2: DÉBORA VIEIRA SIM]AO
 
 ---
 
