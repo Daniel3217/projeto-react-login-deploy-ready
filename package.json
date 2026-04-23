@@ -1,0 +1,33 @@
+{
+  "name": "projeto-google-dupla",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/Daniel3217/projeto-react-login-deploy-ready.git",
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "gh-pages": "^6.3.0",
+    "jwt-decode": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
